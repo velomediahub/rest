@@ -55,6 +55,14 @@ p {
     color: #6f42c1; /* A vibrant purple */
 }
 
+/* Logo Styling */
+.app-logo {
+    width: 120px; /* Adjust as needed */
+    height: auto;
+    margin-bottom: 30px;
+    filter: drop-shadow(0 0 10px rgba(0,0,0,0.1)); /* Subtle shadow for depth */
+}
+
 /* Hero Section */
 .hero-section {
     background: linear-gradient(135deg, #6f42c1, #007bff);
